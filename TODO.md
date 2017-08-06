@@ -1,0 +1,6 @@
+- Complete documentation
+- Write complete tests
+- Add more scalar types
+- Create a build pipeline with travis
+- Add a linter
+- Add a prettier git hook
